@@ -1,0 +1,6 @@
+{
+  "name": "Athar Masoud | Markazul Quran & Masoud Shop",
+  "description": "Athar Masoud - Imam & Khatib, Online Quran Teacher at Markazul Quran Online Academy, and founder of MASOUD SHOP (Organic Products).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
